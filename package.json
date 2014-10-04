@@ -4,7 +4,7 @@
 	"description": "A jQuery plugin to return a unique selector for a given element.",
 	"author": "Anthony Greco",
 	"homepage": "https://github.com/anthonygreco/uniqueSelector/",
-	"version": "3.3.1",
+	"version": "0.1.0",
 	"devDependencies": {
 		"grunt": "~0.4.1",
 		"grunt-cli": "~0.1.7",
