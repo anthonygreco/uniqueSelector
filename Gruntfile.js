@@ -34,8 +34,7 @@ module.exports = function(grunt) {
     jshint: {
       files: ['src/jquery.uniqueSelector.js'],
       options: {
-        jshintrc: '.jshintrc',
-        reporter: require('jshint-stylish')
+        jshintrc: '.jshintrc'
       }
     },
     uglify: {
