@@ -1,0 +1,37 @@
+{
+  "name": "uniqueSelector",
+  "title": "Unique Selector",
+  "description": "A jQuery plugin to return a unique selector for a given element.",
+  "keywords": [
+    "jquery",
+    "unique",
+    "selector",
+    "plugins"
+  ],
+  "version": "0.1.0",
+  "author": {
+    "name": "Anthony Greco",
+    "email": "anthony.greco@gmail.com",
+    "url": "https://github.com/anthonygreco"
+  },
+  "maintainers": [
+    {
+      "name": "Anthony Greco",
+      "email": "anthony.greco@gmail.com",
+      "url": "https://github.com/anthonygreco"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/anthonygreco/uniqueSelector/LICENSE"
+    }
+  ],
+  "bugs": "https://github.com/anthonygreco/uniqueSelector/issues",
+  "homepage": "",
+  "docs": "https://github.com/anthonygreco/uniqueSelector#readme",
+  "download": "https://github.com/anthonygreco/uniqueSelector",
+  "dependencies": {
+    "jquery": ">=1.8.3"
+  }
+}
