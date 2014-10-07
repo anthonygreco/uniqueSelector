@@ -1,6 +1,8 @@
 {
   "name": "uniqueSelector",
   "version": "0.1.0",
+  "main": "dist/jquery.uniqueSelector.js",
+  "ignore": [],
   "dependencies": {
     "jquery": "~1.8.3"
   }
